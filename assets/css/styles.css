@@ -109,7 +109,7 @@ body.dark-mode {
   animation: floatAnimation 3s infinite ease-in-out; /* Adjust the animation duration and easing as needed */
   font-style: oblique;
   font-weight: bolder;
-  font-size: 65px;
+  font-size: 63px;
 }
 
 @keyframes floatAnimation {
